@@ -15,8 +15,8 @@ Antes de empezar, asegúrate de tener instalado:
 1. Clona este repositorio:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/fabriciopasinato/Cuentas-bancarias.git
+   cd Cuentas-bancarias
 
 
 2. npm install
